@@ -1,0 +1,87 @@
+*{
+	font-family: arial;
+}
+aside{
+	width: 20%;
+	color: white;
+	position: fixed;
+}
+.menu li:hover{
+	background-color: #0d0d0d;
+	text-decoration: none;
+	border-left-style: solid;
+	border-color: green;
+}
+.main-sidebar h2{
+ background-color: #0066ff;
+ margin-bottom: 0px;
+ text-align: center;
+ padding: 10px;
+ margin-top: 0px;
+}
+.main-sidebar .sidebar{
+	background-color: #262626;
+	height: 600px;
+}
+
+.menu li{
+	text-decoration: none;
+	list-style: none;
+	padding: 8px 5px;
+	color: white;
+	
+}
+.menu li a{
+	color: white;
+	padding: 8px;
+	border-color: green;
+	font-size: 16px;
+
+}
+ul li{
+	list-style-type: none;
+	text-decoration: none;
+}
+.main-sidebar .sidebar input{
+	margin-left: 20px;
+	margin-right: 20px;
+	width: 80%;
+}
+.main-sidebar .sidebar .menu ul li a:hover{
+background-color: green;
+}
+
+.main nav{
+	background-color: #007acc;
+	height: 53px;
+	}
+	.main{
+		width: 80%;
+		margin-left: 20%;
+
+	}
+
+.main nav li{
+	color: white;
+    text-decoration: none;
+}	
+.main nav li a{
+text-decoration: none;
+list-style: none;
+color: white;
+text-align: center;
+padding: 10px;
+}
+.main section{
+	text-align: center;
+	
+}
+.active{
+	background-color: #0d0d0d;
+	border-left-style: solid;
+	border-color: green;
+}
+section .side{
+	margin-left: 20%;
+	width: 80%;
+}
